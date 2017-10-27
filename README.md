@@ -9,8 +9,9 @@ This app shows you how to implement Angular, AngularFire2 and Firebase FireStore
 
 ## Install the dependencies
 
-```sh
+````
 $ npm install
+````
 
 ## Add your Firebase info to environment.ts/environment.prod.ts
 
