@@ -1,6 +1,18 @@
-# Angularfs
+# Angular FireStore App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+This app shows you how to implement Angular, AngularFire2 and Firebase FireStore
+
+### Version
+1.0.0
+
+### Usage
+
+## Install the dependencies
+
+```sh
+$ npm install
+
+## Add your Firebase info to environment.ts/environment.prod.ts
 
 ## Development server
 
